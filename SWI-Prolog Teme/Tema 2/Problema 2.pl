@@ -1,0 +1,23 @@
+b(0,-1).
+b(1,2).
+b(N, Bn) :-
+    N >= 2,
+    N1 is N - 1,
+    N2 is N - 2,
+    b(N1, Bn1),
+    b(N2, Bn2),
+    Bn is Bn1 - 2 * Bn2.
+c(0, 1).
+c(1, -1).
+
+c(N, Cn) :-
+    N >= 2,
+    N1 is N - 1,
+    N2 is N - 2,
+    c(N1, Cn1),
+    c(N2, Cn2),
+    Cn is 3 * Cn1 - Cn2.
+e1(N, E) :-
+    b(N, Bn),
+    c(N, Cn),
+    E is Bn + Cn.
