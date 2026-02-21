@@ -1,0 +1,8 @@
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ManagerSarcini\ManagerSarcini\bin\Debug\ManagerSarcini.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ManagerSarcini\ManagerSarcini\bin\Debug\ManagerSarcini.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ManagerSarcini\ManagerSarcini\bin\Debug\ManagerSarcini.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ManagerSarcini\ManagerSarcini\obj\Debug\ManagerSarcini.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ManagerSarcini\ManagerSarcini\obj\Debug\ManagerSarcini.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ManagerSarcini\ManagerSarcini\obj\Debug\ManagerSarcini.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ManagerSarcini\ManagerSarcini\obj\Debug\ManagerSarcini.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ManagerSarcini\ManagerSarcini\obj\Debug\ManagerSarcini.exe.config

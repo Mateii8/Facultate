@@ -1,0 +1,8 @@
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\SistemGestiuneAngajati\SistemGestiuneAngajati\bin\Debug\SistemGestiuneAngajati.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\SistemGestiuneAngajati\SistemGestiuneAngajati\bin\Debug\SistemGestiuneAngajati.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\SistemGestiuneAngajati\SistemGestiuneAngajati\bin\Debug\SistemGestiuneAngajati.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\SistemGestiuneAngajati\SistemGestiuneAngajati\obj\Debug\SistemGestiuneAngajati.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\SistemGestiuneAngajati\SistemGestiuneAngajati\obj\Debug\SistemGestiuneAngajati.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\SistemGestiuneAngajati\SistemGestiuneAngajati\obj\Debug\SistemGestiuneAngajati.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\SistemGestiuneAngajati\SistemGestiuneAngajati\obj\Debug\SistemGestiuneAngajati.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\SistemGestiuneAngajati\SistemGestiuneAngajati\obj\Debug\SistemGestiuneAngajati.exe.config

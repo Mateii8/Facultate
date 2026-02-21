@@ -1,0 +1,8 @@
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\GeneratorParole\GeneratorParole\bin\Debug\GeneratorParole.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\GeneratorParole\GeneratorParole\bin\Debug\GeneratorParole.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\GeneratorParole\GeneratorParole\bin\Debug\GeneratorParole.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\GeneratorParole\GeneratorParole\obj\Debug\GeneratorParole.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\GeneratorParole\GeneratorParole\obj\Debug\GeneratorParole.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\GeneratorParole\GeneratorParole\obj\Debug\GeneratorParole.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\GeneratorParole\GeneratorParole\obj\Debug\GeneratorParole.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\GeneratorParole\GeneratorParole\obj\Debug\GeneratorParole.exe.config
