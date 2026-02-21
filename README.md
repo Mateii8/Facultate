@@ -11,5 +11,4 @@ Logic programming
 
 Object Oriented Programming
 
-Database management systems
 
