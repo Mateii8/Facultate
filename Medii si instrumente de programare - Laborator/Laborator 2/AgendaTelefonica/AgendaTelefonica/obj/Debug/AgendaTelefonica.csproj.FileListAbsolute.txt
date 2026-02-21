@@ -1,0 +1,16 @@
+C:\Users\alexx\source\repos\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.config
+C:\Users\alexx\source\repos\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe
+C:\Users\alexx\source\repos\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.pdb
+C:\Users\alexx\source\repos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.AssemblyReference.cache
+C:\Users\alexx\source\repos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\alexx\source\repos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe
+C:\Users\alexx\source\repos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.pdb
+C:\Users\alexx\source\repos\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.pdb

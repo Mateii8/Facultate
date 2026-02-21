@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalizatorText", "ConsoleApp10\AnalizatorText.csproj", "{49C74DDA-E45D-4292-9075-310590CA5AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C74DDA-E45D-4292-9075-310590CA5AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C74DDA-E45D-4292-9075-310590CA5AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C74DDA-E45D-4292-9075-310590CA5AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C74DDA-E45D-4292-9075-310590CA5AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F46CB359-1C18-4226-A392-8B6796861973}
+	EndGlobalSection
+EndGlobal

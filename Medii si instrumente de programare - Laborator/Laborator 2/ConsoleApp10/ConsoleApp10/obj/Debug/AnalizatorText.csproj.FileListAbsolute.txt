@@ -1,0 +1,8 @@
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\AnalizatorText.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\AnalizatorText.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

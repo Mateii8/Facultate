@@ -1,0 +1,8 @@
+C:\Users\alexx\source\repos\AnalizatorStudenti\AnalizatorStudenti\bin\Debug\AnalizatorStudenti.exe.config
+C:\Users\alexx\source\repos\AnalizatorStudenti\AnalizatorStudenti\bin\Debug\AnalizatorStudenti.exe
+C:\Users\alexx\source\repos\AnalizatorStudenti\AnalizatorStudenti\bin\Debug\AnalizatorStudenti.pdb
+C:\Users\alexx\source\repos\AnalizatorStudenti\AnalizatorStudenti\obj\Debug\AnalizatorStudenti.csproj.AssemblyReference.cache
+C:\Users\alexx\source\repos\AnalizatorStudenti\AnalizatorStudenti\obj\Debug\AnalizatorStudenti.csproj.CoreCompileInputs.cache
+C:\Users\alexx\source\repos\AnalizatorStudenti\AnalizatorStudenti\obj\Debug\AnalizatorStudenti.exe
+C:\Users\alexx\source\repos\AnalizatorStudenti\AnalizatorStudenti\obj\Debug\AnalizatorStudenti.pdb
+C:\Users\alexx\source\repos\AnalizatorStudenti\AnalizatorStudenti\obj\Debug\AnalizatorStudenti.exe.config
