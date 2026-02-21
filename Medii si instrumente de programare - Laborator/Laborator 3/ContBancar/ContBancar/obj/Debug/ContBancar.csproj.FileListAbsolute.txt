@@ -1,0 +1,7 @@
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ContBancar\ContBancar\bin\Debug\ContBancar.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ContBancar\ContBancar\bin\Debug\ContBancar.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ContBancar\ContBancar\bin\Debug\ContBancar.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ContBancar\ContBancar\obj\Debug\ContBancar.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ContBancar\ContBancar\obj\Debug\ContBancar.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ContBancar\ContBancar\obj\Debug\ContBancar.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ContBancar\ContBancar\obj\Debug\ContBancar.pdb

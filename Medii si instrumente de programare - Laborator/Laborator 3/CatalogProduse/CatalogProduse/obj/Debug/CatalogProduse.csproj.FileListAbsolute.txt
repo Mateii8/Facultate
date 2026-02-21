@@ -1,0 +1,8 @@
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CatalogProduse\CatalogProduse\bin\Debug\CatalogProduse.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CatalogProduse\CatalogProduse\bin\Debug\CatalogProduse.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CatalogProduse\CatalogProduse\bin\Debug\CatalogProduse.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CatalogProduse\CatalogProduse\obj\Debug\CatalogProduse.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CatalogProduse\CatalogProduse\obj\Debug\CatalogProduse.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CatalogProduse\CatalogProduse\obj\Debug\CatalogProduse.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CatalogProduse\CatalogProduse\obj\Debug\CatalogProduse.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CatalogProduse\CatalogProduse\obj\Debug\CatalogProduse.exe.config

@@ -1,0 +1,8 @@
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CalculatorStiintific\CalculatorStiintific\bin\Debug\CalculatorStiintific.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CalculatorStiintific\CalculatorStiintific\bin\Debug\CalculatorStiintific.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CalculatorStiintific\CalculatorStiintific\bin\Debug\CalculatorStiintific.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CalculatorStiintific\CalculatorStiintific\obj\Debug\CalculatorStiintific.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CalculatorStiintific\CalculatorStiintific\obj\Debug\CalculatorStiintific.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CalculatorStiintific\CalculatorStiintific\obj\Debug\CalculatorStiintific.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CalculatorStiintific\CalculatorStiintific\obj\Debug\CalculatorStiintific.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\CalculatorStiintific\CalculatorStiintific\obj\Debug\CalculatorStiintific.exe.config

@@ -1,0 +1,8 @@
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ConvertorValutar\ConvertorValutar\bin\Debug\ConvertorValutar.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ConvertorValutar\ConvertorValutar\bin\Debug\ConvertorValutar.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ConvertorValutar\ConvertorValutar\bin\Debug\ConvertorValutar.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ConvertorValutar\ConvertorValutar\obj\Debug\ConvertorValutar.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ConvertorValutar\ConvertorValutar\obj\Debug\ConvertorValutar.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ConvertorValutar\ConvertorValutar\obj\Debug\ConvertorValutar.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ConvertorValutar\ConvertorValutar\obj\Debug\ConvertorValutar.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 3\ConvertorValutar\ConvertorValutar\obj\Debug\ConvertorValutar.exe.config
