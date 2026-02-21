@@ -1,0 +1,11 @@
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\bin\Debug\Newtonsoft.Json.dll
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\bin\Debug\Newtonsoft.Json.xml
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.AssemblyReference.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\obj\Debug\StockMar.D700C2F4.Up2Date
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Facultate Matei\Medii si instrumente de programare - Laborator\Laborator 4\StockMarket\StockMarket\obj\Debug\StockMarket.exe.config
